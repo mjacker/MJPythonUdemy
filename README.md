@@ -1,19 +1,19 @@
-## Day 1
- # Exercises
+# Day 1
+ ## Exercises
   - Printing.
   - Debugging.
   - input function.
   - interchange variables.
- # Project
+ ## Project
   - Band name generator.
 
-## Day 2
- # Learning
+# Day 2
+ ## Learning
   - primitive data types
   - round
- # Exercises
+ ## Exercises
   - add two digits
   - BMI Calculator
   - You life in weeks
- # Proyect
+ ## Proyect
   - Tip Calculator.
