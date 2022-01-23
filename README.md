@@ -15,5 +15,15 @@
   - add two digits
   - BMI Calculator
   - You life in weeks
- ## Proyect
+ ## Project
   - Tip Calculator.
+
+# Day 3
+ ## Exercises
+  - Odd or Even.
+  - BMI Calculator 2.0
+  - Leap Year
+  - Pizza order
+  - Love Calculator
+ ## Project
+  - Treasure island
